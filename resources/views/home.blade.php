@@ -52,7 +52,7 @@
                         <div class="menu-area__inner">
                             <div class="mobile-nav-toggler align-items-center">
                                 <div class="site-ligo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay.png" alt="site-logo" width="50px" height="30px" /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="site-logo" width="50px" height="30px" /></a>
                                 </div>
                                 <i class="fas fa-bars"></i>
                             </div>
@@ -188,7 +188,7 @@
                                     <i class="fas fa-times"></i>
                                 </div>
                                 <div class="nav-logo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay.png" alt="Logo" /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="Logo" /></a>
                                 </div>
                                 <div class="menu-outer">
                                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
