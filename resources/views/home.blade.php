@@ -120,13 +120,8 @@
                                                 </div>
                                                 <div class="navbar-wrap main-menu">
                                                     <ul class="navigation">
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Home</a>
-                                                            <ul class="sub-menu">
-                                                                <li>
-                                                                    <a href="index.html">Home One</a>
-                                                                </li>
-                                                            </ul>
+                                                        <li>
+                                                            <a href="index.html">Home</a>
                                                         </li>
                                                         <li>
                                                             <a href="about.html">About</a>
@@ -238,43 +233,22 @@
                     <div class="hero-content">
                         <span class="hero-tagline text-teal">IT solutions for the new era</span>
                         <h1 class="hero-title text-white">Beautiful IT services for your success</h1>
-                        <p class="text-white">Leverage agile frameworks to provide a robust synopsis for high level overviews terative approaches bring table survival.</p>
+                        <p class="text-white">Leveraging agile frameworks to harness the power of technology in
+                            transforming ideas into reality. As a leading software development company, we specialize in
+                            creating custom solutions that empower businesses to thrive in this digital age</p>
                         <div class="hero-btn-area d-flex align-items-center">
                             <a href="about.html" class="thm-btn">
                                 <span class="txt">Read More</span>
                             </a>
-                            <a href="https://www.youtube.com/watch?v=UVAyIh5V4NY" class="play-btn"><i class="fas fa-play"></i></a>
-                            <span class="play-intro">Play Intro</span>
-                        </div>
-                        <div class="hero-team-info d-flex align-items-center">
-                            <div class="team-members d-flex">
-                                <div class="team-members-img">
-                                    <img src="assets/images/team/team-info1.png" alt="" />
-                                </div>
-                                <div class="team-members-img">
-                                    <img src="assets/images/team/team-info1.png" alt="" />
-                                </div>
-                                <div class="team-members-img">
-                                    <img src="assets/images/team/team-info1.png" alt="" />
-                                </div>
-                                <div class="team-members-img">
-                                    <img src="assets/images/team/team-info1.png" alt="" />
-                                </div>
-                                <div class="team-members-img">
-                                    <img src="assets/images/team/team-info1.png" alt="" />
-                                </div>
-                            </div>
-                            <div class="total-team-count">
-                                <span>36k+</span>
-                                <p>Team Members</p>
-                            </div>
+{{--                            <a href="https://www.youtube.com/watch?v=UVAyIh5V4NY" class="play-btn"><i class="fas fa-play"></i></a>--}}
+{{--                            <span class="play-intro">Play Intro</span>--}}
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="hero-images hero-style1">
                         <div class="hero-feature-img feature-one br-style1">
-                            <img class="br-style1" src="assets/images/hero/hero-img1.png" alt="hero-img" />
+                            <img class="br-style1" src="assets/images/hero/code2.jpg" alt="hero-img" />
                         </div>
                         <div class="hero-info-img feature-two">
                             <img src="assets/images/hero/hero-info-img1.png" alt="hero-img" />
@@ -304,8 +278,8 @@
                         <h6 class="sec-sub-title">About Your Company</h6>
                         <h2 class="sec-title">We Execute Our ideas From The Start to Finish</h2>
                         <p class="sec-text">
-                            Solve Business Problems And Automate Workflows With Artificial Work Intelligence-Based Solutions. Unlock The Hidden Power Of The Data You Already Have And Hand
-                            Hampers The Creativity.
+                            Established with a vision to drive innovation and excellence, Realpay Global Services brings together a team of seasoned professionals with expertise in software engineering, design, and project management. With a diverse skill set and a shared commitment to delivering superior results,
+                            we pride ourselves on our ability to tackle complex challenges and exceed client expectations.
                         </p>
                         <ul class="sec-list-item">
                             <li><i class="fa-solid fa-square-check"></i> Development of Financial Models</li>
