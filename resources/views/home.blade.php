@@ -266,7 +266,7 @@
                 <div class="col-lg-6">
                     <div class="sec-images">
                         <div class="sec-img-one overflow-hidden wow fadeInLeft" data-wow-delay="500ms" data-wow-duration="1500ms">
-                            <img src="assets/images/about/about01.png" alt="about-img" />
+                            <img src="assets/images/about/about5.jpeg" alt="about-img" />
                         </div>
                         <div class="sec-img-two overflow-hidden wow fadeInRight" data-wow-delay="500ms" data-wow-duration="1500ms">
                             <img src="assets/images/about/about02.png" alt="about-img" />
