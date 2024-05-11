@@ -52,7 +52,7 @@
                         <div class="menu-area__inner">
                             <div class="mobile-nav-toggler align-items-center">
                                 <div class="site-ligo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay.png" alt="site-logo" width="100px" height="30px" /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay logo_2.png" alt="site-logo" width="100px" height="30px" /></a>
                                 </div>
                                 <i class="fas fa-bars"></i>
                             </div>
@@ -951,7 +951,7 @@
                     <div class="col-sm-6 col-xl-3">
                         <div class="footer-widget">
                             <div class="footer-widget-logo">
-                                <a href="/"><img src="assets/images/logo/realpay.png" alt="realpay-logo" width="50px" height="30px"/></a>
+                                <a href="/"><img src="assets/images/logo/realpay logo_2.png" alt="realpay-logo" width="50px" height="30px"/></a>
                             </div>
                             <div class="footer-widget-content">
                                 <p class="ft-text">
