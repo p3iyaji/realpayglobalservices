@@ -188,7 +188,8 @@
                                     <i class="fas fa-times"></i>
                                 </div>
                                 <div class="nav-logo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="Logo" /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="Logo" width="50px" height="30px"
+                                        /></a>
                                 </div>
                                 <div class="menu-outer">
                                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -951,7 +952,7 @@
                     <div class="col-sm-6 col-xl-3">
                         <div class="footer-widget">
                             <div class="footer-widget-logo">
-                                <a href="/"><img src="assets/images/logo/logo1.png" alt="realpay-logo" /></a>
+                                <a href="/"><img src="assets/images/logo/logo1.png" alt="realpay-logo" width="50px" height="30px"/></a>
                             </div>
                             <div class="footer-widget-content">
                                 <p class="ft-text">
