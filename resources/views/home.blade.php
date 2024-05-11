@@ -52,7 +52,7 @@
                         <div class="menu-area__inner">
                             <div class="mobile-nav-toggler align-items-center">
                                 <div class="site-ligo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="site-logo" width="50px" height="30px" /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay.png" alt="site-logo" width="100px" height="30px" /></a>
                                 </div>
                                 <i class="fas fa-bars"></i>
                             </div>
@@ -116,7 +116,7 @@
                                         <div class="main-header-one__bottom">
                                             <div class="main-header-one__bottom-left d-flex">
                                                 <div class="site-ligo d-flex align-items-center">
-                                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="site-logo" width="200px" height="50px" /></a>
+                                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="site-logo" width="250px" height="50px" /></a>
                                                 </div>
                                                 <div class="navbar-wrap main-menu">
                                                     <ul class="navigation">
@@ -188,8 +188,7 @@
                                     <i class="fas fa-times"></i>
                                 </div>
                                 <div class="nav-logo">
-                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="Logo" width="50px" height="30px"
-                                        /></a>
+                                    <a href="index.html"><img src="assets/images/logo/realpay logo.png" alt="Logo" width="50px" height="30px"/></a>
                                 </div>
                                 <div class="menu-outer">
                                     <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
@@ -952,7 +951,7 @@
                     <div class="col-sm-6 col-xl-3">
                         <div class="footer-widget">
                             <div class="footer-widget-logo">
-                                <a href="/"><img src="assets/images/logo/logo1.png" alt="realpay-logo" width="50px" height="30px"/></a>
+                                <a href="/"><img src="assets/images/logo/realpay.png" alt="realpay-logo" width="50px" height="30px"/></a>
                             </div>
                             <div class="footer-widget-content">
                                 <p class="ft-text">
